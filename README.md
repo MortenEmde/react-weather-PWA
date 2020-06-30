@@ -1,3 +1,10 @@
+# PWA Weather Application
+Full credit goes to JS Mastery's [video](https://www.youtube.com/watch?v=IaJqMcOMuDM) on how to build and deploy a PWA using React.js.
+
+My version of the final product can be viewed [here](https://mortens-weatherapp.netlify.app/)
+
+------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
